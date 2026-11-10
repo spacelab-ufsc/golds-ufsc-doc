@@ -1,0 +1,130 @@
+{
+    'papersize': 'a4paper',
+    'pointsize': '12pt',
+    'babel': r'\usepackage[english]{babel}',
+    'fncychap': '',
+    'fontpkg': r'\usepackage[math]{iwona}',
+    'preamble': r'\usepackage{spacelab_book}',
+    'inputenc': r'\usepackage[utf8]{inputenc}',
+    'fontenc': r'\usepackage[T1]{fontenc}',
+    'geometry': r'\usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}',
+    'extrapackages': r"""
+        \usepackage{titling}
+        \usepackage{fancyhdr}
+        """,
+    'hyperref': r"""
+        \usepackage[hidelinks]{hyperref}
+        \usepackage{hypcap}
+        \urlstyle{same}
+        """,
+    'sphinxsetup': 'TitleColor={rgb}{0.0,0.0,0.0}',
+    'maketitle': r"""
+\begin{titlepage}
+
+\thispagestyle{empty}
+
+\begin{flushleft}
+SpaceLab.DMO.2020.06.001 rev C
+\end{flushleft}
+
+\vspace{1cm}
+
+\begin{figure}[!ht]
+    \begin{flushleft}
+        \includegraphics[width=7cm]{spacelab-logo-full-color-rgb-1000px@72ppi.png}
+    \end{flushleft}
+\end{figure}
+
+\begin{flushleft}
+\Huge{\textbf{\thetitle}}
+\rule[0pt]{\textwidth}{5pt}
+\end{flushleft}
+
+\vspace{0.2cm}
+
+\begin{flushleft}
+\textit{\thetitle} \\
+\textit{SpaceLab, Universidade Federal de Santa Catarina, Florianópolis - Brazil}
+\end{flushleft}
+
+\vfill
+\vfill
+
+\begin{flushright}
+November 2026
+\end{flushright}
+
+\end{titlepage}
+
+\cleardoublepage
+
+\thispagestyle{empty}
+
+\begin{center}
+
+\textbf{\thetitle}
+
+\textit{November, 2026}
+
+\vspace{1cm}
+
+\textbf{Project Chief:}
+
+Eduardo Augusto Bezerra <\href{mailto:Eduardo.Bezerra@ufsc.br}{Eduardo.Bezerra@ufsc.br}>
+
+\vspace{1cm}
+
+\textbf{Authors:}
+
+Gabriel Mariano Marcelino <\href{mailto:gabriel.marcelino@spacelab.ufsc.br}{gabriel.marcelino@spacelab.ufsc.br}> \\
+João Cláudio Elsen Barcellos <\href{mailto:joao.claudio.barcellos@spacelab.ufsc.br}{joao.claudio.barcellos@spacelab.ufsc.br}> \\
+André Martins Pio de Mattos <\href{mailto:}{}> \\
+Yan Castro de Azeredo <\href{mailto:}{}> \\
+Laio Oriel Seman <\href{mailto:}{}> \\
+Brenda Fernandes Ribeiro <\href{mailto:}{}> \\
+Edemar Morsch Filho <\href{mailto:}{}> \\
+Caique Sales de Miranda Gomes <\href{mailto:}{}> \\
+Vitória Beariz Bianchin <\href{mailto:}{}> \\
+
+\vspace{1cm}
+
+\textbf{Contributing Authors:}
+
+% TODO
+
+\vspace{1cm}
+
+
+\textbf{Revision Control:}
+
+\end{center}
+
+\begin{table}[!ht]
+    \begin{center}
+        \begin{tabular}{cL{5cm}L{5.5cm}C{2cm}}
+            \toprule[1.5pt]
+            \textbf{Version} & \textbf{Author}  & \textbf{Changes}    & \textbf{Date} \\
+            \midrule
+            0.0 & G. M. Marcelino  										& Document creation   	& 2020/06/05 \\
+            0.1 & G. M. Marcelino  										& First release   	& 2021/05/30 \\
+            0.2 & G. M. Marcelino, L. O. Seman, B. F. Ribeiro, E. M. Filho, C. S. M. Gomes, V. B. Bianchin  	& CDR release   	& 2022/11/04 \\
+            0.3 & G. M. Marcelino, L. O. Seman  								& TBD   		& TBD \\
+                &                                                                                               &                       &  \\
+            \bottomrule[1.5pt]
+        \end{tabular}
+    \end{center}
+\end{table}
+
+\vfill
+
+\begin{figure}[!h]
+	\begin{center}
+		\includegraphics[width=0.25\textwidth]{by-sa.pdf}
+	\end{center}
+\end{figure}
+
+Copyright\textcopyright\ by The Catarina-A1 Contributors. \thetitle. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit \href{http://creativecommons.org/licenses/by-sa/4.0/}{http://creativecommons.org/licenses/by-sa/4.0/}.
+
+\cleardoublepage
+    """,
+}
