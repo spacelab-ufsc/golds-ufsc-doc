@@ -23,7 +23,7 @@ The CubeSat's subsystems are positioned in the 2U physical structure as exemplif
 
 .. _fig:subsystems-positioning:
 
-.. figure:: figures/subsystems-positioning.pdf
+.. figure:: figures/subsystems-positioning.*
    :width: 70%
    :align: center
    :alt: Subsystems positioning.
@@ -40,7 +40,7 @@ The current values shown are the maximum capability and not the nominal operatin
 
 .. _fig:power-diagram:
 
-.. figure:: figures/power_diagram.pdf
+.. figure:: figures/power_diagram.*
    :width: 100%
    :align: center
    :alt: Power diagram.
@@ -54,7 +54,7 @@ The data path diagram is shown in :numref:`fig:data-path`.
 
 .. _fig:data-path:
 
-.. figure:: figures/data_path_diagram.pdf
+.. figure:: figures/data_path_diagram.*
    :width: 100%
    :align: center
    :alt: Data path diagram.
@@ -74,7 +74,7 @@ The :numref:`fig:deployment-flowchart` has a flowchart that illustrates the depl
 
 .. _fig:deployment-flowchart:
 
-.. figure:: figures/deployment-flowchart.pdf
+.. figure:: figures/deployment-flowchart.*
    :width: 50%
    :align: center
    :alt: Flowchart of the deployment sequence.
@@ -88,7 +88,7 @@ After the beacon microcontroller's boot sequence, the beacon's operation starts.
 
 .. _fig:beacon-flowchart:
 
-.. figure:: figures/beacon-flowchart.pdf
+.. figure:: figures/beacon-flowchart.*
    :width: 55%
    :align: center
    :alt: Flowchart of the normal beacon operation.
@@ -102,7 +102,7 @@ After the boot sequence of the OBDH microcontroller, the operation of the OBDH s
 
 .. _fig:obdh-flowchart:
 
-.. figure:: figures/obdh-flowchart.pdf
+.. figure:: figures/obdh-flowchart.*
    :width: 63%
    :align: center
    :alt: Flowchart of the normal OBDH operation.
@@ -116,7 +116,7 @@ Figure :numref:`fig:tc-flowchart` shows the telecommand processing flow.
 
 .. _fig:tc-flowchart:
 
-.. figure:: figures/tc-flowchart.pdf
+.. figure:: figures/tc-flowchart.*
    :width: 80%
    :align: center
    :alt: Flowchart of telecommand processing.
@@ -134,7 +134,7 @@ The :numref:`fig:eps-flowchart` has a flowchart of this behavior.
 
 .. _fig:eps-flowchart:
 
-.. figure:: figures/eps_flowchart.pdf
+.. figure:: figures/eps_flowchart.*
    :width: 45%
    :align: center
    :alt: Flowchart of the normal EPS operation.
@@ -153,7 +153,7 @@ Using the :numref:`fig:pc104-ref-diagram` as reference, all used positions and s
 
 .. _fig:pc104-ref-diagram:
 
-.. figure:: figures/pc104-diagram.pdf
+.. figure:: figures/pc104-diagram.*
    :width: 50%
    :align: center
    :alt: Reference diagram of the PC-104 bus (top view of a generic module).
@@ -446,7 +446,7 @@ The payload of all packets follows the same structure, with an ID number, the so
 
 .. _fig:fsat-pkt-structure:
 
-.. figure:: figures/floripasat-packet-structure.pdf
+.. figure:: figures/floripasat-packet-structure.*
    :width: 50%
    :align: center
    :alt: Payload structure of the GOLDS-UFSC packets.
@@ -691,7 +691,7 @@ All the telecommands classified as private use an HMAC (Hash-based Message Authe
 
 .. _fig:hmac-diagram:
 
-.. figure:: figures/hmac-diagram.pdf
+.. figure:: figures/hmac-diagram.*
    :width: 100%
    :align: center
    :alt: Diagram of the used HMAC scheme.

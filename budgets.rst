@@ -92,7 +92,7 @@ The :numref:`fig:fsat2-gmat` shows the 3D representation of the GOLDS-UFSC orbit
 
 .. _fig:fsat2-gmat-groundtrack:
 
-.. figure:: figures/fsat2-gmat-groundtrack.pdf
+.. figure:: figures/fsat2-gmat-groundtrack.*
    :width: 100%
    :align: center
    :alt: GOLDS-UFSC simulated groundtrack.
@@ -108,7 +108,7 @@ Considering the same parameters of FloripaSat-1, but with an initial altitude of
 
 .. _fig:lifetime-analysis:
 
-.. figure:: curves/Altitude.pdf
+.. figure:: curves/Altitude.*
    :width: 80%
    :align: center
    :alt: Lifetime analysis.
@@ -248,7 +248,7 @@ Simulations of the energy input to the solar panels along some orbits can be see
 
 .. _fig:sp_sim_power:
 
-.. figure:: curves/sp_sim_power.pdf
+.. figure:: curves/sp_sim_power.*
    :width: 90%
    :align: center
    :alt: Simulated input power of the solar panels.
@@ -257,7 +257,7 @@ Simulations of the energy input to the solar panels along some orbits can be see
 
 .. _fig:max_eclipse:
 
-.. figure:: curves/GOLDS_com_eclipse.pdf
+.. figure:: curves/GOLDS_com_eclipse.*
    :width: 45%
    :align: center
    :alt: Maximum eclipse.
@@ -266,7 +266,7 @@ Simulations of the energy input to the solar panels along some orbits can be see
 
 .. _fig:without_eclipse:
 
-.. figure:: curves/GOLDS_sem_eclipse.pdf
+.. figure:: curves/GOLDS_sem_eclipse.*
    :width: 45%
    :align: center
    :alt: Without eclipse.

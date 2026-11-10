@@ -168,7 +168,7 @@ The product tree of the GOLDS-UFSC mission is the project breakdown into success
 
 .. _fig:product-tree:
 
-.. figure:: figures/product-tree.pdf
+.. figure:: figures/product-tree.*
    :width: 100%
    :align: center
    :alt: Product tree of the satellite.
@@ -198,7 +198,7 @@ The Work Breakdown Structure (WBS (Work Breakdown Structure)) is presented as a 
 
 .. _fig:wbs:
 
-.. figure:: figures/wbs.pdf
+.. figure:: figures/wbs.*
    :width: 100%
    :align: center
    :alt: WBS diagram.

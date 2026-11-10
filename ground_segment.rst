@@ -25,7 +25,7 @@ The UFSC ground station is currently being developed and prepared for this missi
 
 .. _fig:grs-block-diagram:
 
-.. figure:: figures/grs-block-diagram.pdf
+.. figure:: figures/grs-block-diagram.*
    :width: 100%
    :align: center
    :alt: Block diagram of the ground segment (UFSC ground station).
@@ -363,7 +363,7 @@ In the :numref:`fig:transmitter-tree` is shown the product tree of the software,
 
 .. _fig:transmitter-tree:
 
-.. figure:: figures/transmitter_tree.pdf
+.. figure:: figures/transmitter_tree.*
    :width: 60%
    :align: center
    :alt: SpaceLab-Transmitter product tree.
@@ -388,7 +388,7 @@ The :numref:`fig:decoder-tree` is showing the product tree of the software, whic
 
 .. _fig:decoder-tree:
 
-.. figure:: figures/decoder_tree.pdf
+.. figure:: figures/decoder_tree.*
    :width: 60%
    :align: center
    :alt: SpaceLab-Decoder product tree.

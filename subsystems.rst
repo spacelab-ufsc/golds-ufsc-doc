@@ -288,7 +288,7 @@ The material of all its parts is aluminum T6065, except for the bolts and thread
 
 .. _fig:structure_views:
 
-.. figure:: figures/structure-u2.pdf
+.. figure:: figures/structure-u2.*
    :width: 80%
    :align: center
    :alt: Views and main dimension of the structure.

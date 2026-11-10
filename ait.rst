@@ -20,7 +20,7 @@ In :numref:`fig:sequence` there is a general view of the sequential steps to the
 
 .. _fig:sequence:
 
-.. figure:: figures/assembly-and-tests-chart.pdf
+.. figure:: figures/assembly-and-tests-chart.*
    :width: 90%
    :align: center
    :alt: Sequence of activities of AIT plan.
@@ -200,7 +200,7 @@ The sequence of these tests is summarized in :numref:`fig:testesequency`.
 
 .. _fig:testesequency:
 
-.. figure:: figures/tests_chart.pdf
+.. figure:: figures/tests_chart.*
    :width: 60%
    :align: center
    :alt: Test sequence for GOLDS-UFSC.
@@ -317,7 +317,7 @@ Nevertheless, this test is usually executed for most of the CubeSat missions, so
 
 .. _fig:vibration_procedure:
 
-.. figure:: figures/vibration_procedure.pdf
+.. figure:: figures/vibration_procedure.*
    :width: 60%
    :align: center
    :alt: Sequence of dynamic tests.
@@ -373,7 +373,7 @@ The sinusoidal vibration test should simulate low-frequency quasi-harmonic excit
 
 .. _fig:vibration-sinusoidal-curve:
 
-.. figure:: curves/sine_test.pdf
+.. figure:: curves/sine_test.*
    :width: 100%
    :align: center
    :alt: Sinusoidal sweeping vibration curve.
@@ -398,7 +398,7 @@ This test follows the NASA-STD-7001B standard. This test profile is specified in
 
 .. _fig:vibration-random:
 
-.. figure:: curves/random_vibration.pdf
+.. figure:: curves/random_vibration.*
    :width: 100%
    :align: center
    :alt: Random vibration test.
