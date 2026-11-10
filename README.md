@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="spacelab.ufsc.br"><img src="https://github.com/spacelab-ufsc/golds-ufsc-doc/blob/master/figures/floripasat2-patch.png" alt="GOLDS-UFSC" width="30%"></a>
+    <a href="spacelab.ufsc.br"><img src="https://github.com/spacelab-ufsc/golds-ufsc-doc/blob/master/figures/golds-ufsc-patch.png" alt="GOLDS-UFSC" width="30%"></a>
     <br>
     GOLDS-UFSC MISSION
     <br>
@@ -26,8 +26,8 @@
 	<a href="https://www.gov.br/aeb/pt-br">
 		<img src="https://img.shields.io/badge/sourced%20by-AEB-red?style=for-the-badge">
 	</a>
-    <a href="https://github.com/spacelab-ufsc/floripasat2-doc/actions">
-        <img src="https://img.shields.io/github/workflow/status/spacelab-ufsc/floripasat2-doc/Build%20LaTeX%20document?style=for-the-badge">
+    <a href="https://github.com/spacelab-ufsc/golds-ufsc-doc/actions">
+        <img src="https://img.shields.io/github/workflow/status/spacelab-ufsc/golds-ufsc-doc/Build%20LaTeX%20document?style=for-the-badge">
     </a>
 </p>
 
@@ -51,7 +51,7 @@ Besides performing the EDC main functionalities, the mission will contribute to 
 It also acts as an experimenting platform for research in space technologies developed before, during, and after the operations phase of the mission, providing empirical data for experiments of many kinds. GOLDS-UFSC is expected to be launched by the end of 2020. Details of all systems developed for the mission are described in the documents listed in this repository in a top-level fashion and the detailed technical module documents in their respective repositories. This documentation structure is described in the <a href="#repository-organization">repository organization</a> section.
 
 <p align="center">
-    <img width="65%" src="https://github.com/spacelab-ufsc/floripasat2-doc/blob/master/figures/floripasat-2.jpg" />
+    <img width="65%" src="https://github.com/spacelab-ufsc/golds-ufsc-doc/blob/master/figures/golds-ufsc.jpg" />
 </p>
 
 ## Mission Statement
