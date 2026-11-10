@@ -4,7 +4,12 @@
     'babel': r'\usepackage[english]{babel}',
     'fncychap': '',
     'fontpkg': r'\usepackage[math]{iwona}',
-    'preamble': r'\usepackage{spacelab_book}',
+    'preamble': r"""
+        \usepackage{spacelab_book}
+        % Protect hyperlink commands globally so they can safely live inside captions
+        \let\oldhyperlink\hyperlink
+        \renewcommand{\hyperlink}[2]{\protect\oldhyperlink{#1}{#2}}
+        """,
     'inputenc': r'\usepackage[utf8]{inputenc}',
     'fontenc': r'\usepackage[T1]{fontenc}',
     'geometry': r'\usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}',
@@ -123,7 +128,7 @@ Vitória Beariz Bianchin <\href{mailto:}{}> \\
 	\end{center}
 \end{figure}
 
-Copyright\textcopyright\ by The Catarina-A1 Contributors. \thetitle. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit \href{http://creativecommons.org/licenses/by-sa/4.0/}{http://creativecommons.org/licenses/by-sa/4.0/}.
+Copyright\textcopyright\ by The GOLDS-UFSC Contributors. \thetitle. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit \href{http://creativecommons.org/licenses/by-sa/4.0/}{http://creativecommons.org/licenses/by-sa/4.0/}.
 
 \cleardoublepage
     """,

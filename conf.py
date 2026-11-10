@@ -3,7 +3,7 @@
 #
 # Copyright The GOLDS-UFSC Contributors.
 #
-# GOLDS-UFSC  Documentation
+# GOLDS-UFSC Documentation
 #
 # This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 # International License. To view a copy of this license,
@@ -16,7 +16,7 @@ import ast
 
 # Project information
 project     = 'golds-ufsc'
-copyright   = 'The GOLDS-UFSC  Contributors'
+copyright   = 'The GOLDS-UFSC Contributors'
 author      = 'SpaceLab'
 release     = 'rev C'
 title       = 'GOLDS-UFSC'
@@ -52,9 +52,6 @@ html_logo = "_static/golds-ufsc-mission-patch.png"
 html_theme_options = {
     'logo_only': True,
 }
-html_css_files = [
-    'custom.css',
-]
 
 # Navigation bar title
 html_title = "GOLDS-UFSC Documentation"
@@ -64,7 +61,7 @@ html_short_title = "GOLDS-UFSC Documentation"
 latex_documents = [
     (
         'pdf-index',                        # Root document (e.g., 'index' or 'pdf-index')
-        doc_id + '-' + release + '.tex',    # Output LaTeX file name (no spaces)
+        doc_id + ' ' + release + '.tex',    # Output LaTeX file name (no spaces)
         title,                              # Document title (can be empty to use the root doc's title)
         author,                             # Author name(s).
         'manual',                           # Document type: 'manual' or 'howto'
@@ -91,3 +88,4 @@ latex_additional_files = [
     'figures/by-sa.pdf',
     'figures/spacelab-logo-full-color-rgb-1000px@72ppi.png',
 ]
+latex_appendices = ['link_budget', 'packets', 'edc_report']
