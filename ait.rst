@@ -380,7 +380,7 @@ The sinusoidal vibration test should simulate low-frequency quasi-harmonic excit
 
    Sinusoidal sweeping vibration curve.
 
-The sweeping rates of the acceptance test and qualification tests are 4oct/min and 2oct/min, respectively. The test directions are along three orthogonal axes, and the levels along the three directions are the same. Input amplitude errors do not exceed :math:`\pm 10`% while frequency error is :math:`\pm2`% when frequency :math:`>` 25 Hz or :math:`\pm0.5` Hz when frequency :math:`\leq` 25 Hz.
+The sweeping rates of the acceptance test and qualification tests are 4oct/min and 2oct/min, respectively. The test directions are along three orthogonal axes, and the levels along the three directions are the same. Input amplitude errors do not exceed :math:`\pm 10`\ % while frequency error is :math:`\pm2`\ % when frequency :math:`>` 25 Hz or :math:`\pm0.5` Hz when frequency :math:`\leq` 25 Hz.
 
 Random vibration
 ~~~~~~~~~~~~~~~~

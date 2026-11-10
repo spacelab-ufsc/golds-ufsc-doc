@@ -61,7 +61,7 @@ html_short_title = "GOLDS-UFSC Documentation"
 latex_documents = [
     (
         'pdf-index',                        # Root document (e.g., 'index' or 'pdf-index')
-        doc_id + ' ' + release + '.tex',    # Output LaTeX file name (no spaces)
+        doc_id + '-' + release.replace(' ', '-') + '.tex',    # Output LaTeX file name (no spaces)
         title,                              # Document title (can be empty to use the root doc's title)
         author,                             # Author name(s).
         'manual',                           # Document type: 'manual' or 'howto'

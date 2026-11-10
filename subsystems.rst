@@ -239,7 +239,7 @@ The contact arrangement of the microswitch and the current rating are detailed i
      - n/a
      - n/a
      - 200
-     - mΩ
+     - :math:`\mathrm{m}\Omega`
 
 Attitude Control System
 =======================
@@ -266,7 +266,7 @@ The GOLDS-UFSC satellite does not feature an orbit control subsystem.
 Thermal control
 ===============
 
-An active control gives the thermal control: two resistors (24 Ω) to protect the batteries against low temperatures and two RTDs to monitor the temperature. The control is an ON/OFF control.
+An active control gives the thermal control: two resistors (24 :math:`\Omega`) to protect the batteries against low temperatures and two RTDs to monitor the temperature. The control is an ON/OFF control.
 
 Mechanical Structure
 ====================

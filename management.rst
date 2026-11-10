@@ -36,8 +36,8 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
      - May 2023
      - Jun 2023
    * - 1
-     - ●
-     - ●
+     - X
+     - X
      - 
      - 
      - 
@@ -45,18 +45,18 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
      - 
      - 
    * - 2
-     - ●
-     - ●
-     - ●
-     - ●
+     - X
+     - X
+     - X
+     - X
      - 
      - 
      - 
      - 
    * - 3
-     - ●
-     - ●
-     - ●
+     - X
+     - X
+     - X
      - 
      - 
      - 
@@ -66,8 +66,8 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
      - 
      - 
      - 
-     - ●
-     - ●
+     - X
+     - X
      - 
      - 
      - 
@@ -76,15 +76,15 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
      - 
      - 
      - 
-     - ●
+     - X
      - 
      - 
      - 
    * - 6
      - 
      - 
-     - ●
-     - ●
+     - X
+     - X
      - 
      - 
      - 
@@ -94,7 +94,7 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
      - 
      - 
      - 
-     - ●
+     - X
      - 
      - 
      - 
@@ -103,8 +103,8 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
      - 
      - 
      - 
-     - ●
-     - ●
+     - X
+     - X
      - 
      - 
    * - 9
@@ -113,8 +113,8 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
      - 
      - 
      - 
-     - ●
-     - ●
+     - X
+     - X
      - 
    * - 10
      - 
@@ -123,11 +123,11 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
      - 
      - 
      - 
-     - ●
-     - ●
+     - X
+     - X
    * - 11
      - 
-     - ●
+     - X
      - 
      - 
      - 
@@ -137,14 +137,14 @@ The current schedule of the project is available in :numref:`tab:mission-schedul
    * - 12
      - 
      - 
-     - ●
+     - X
      - 
      - 
      - 
      - 
      - 
 
-● indicates a scheduled activity.
+X indicates a scheduled activity.
 
 Each activity of :numref:`tab:mission-schedule` is described below:
 
